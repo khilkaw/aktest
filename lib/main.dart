@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
           primaryColor: Color.fromRGBO(230, 230, 230, 1)),
       darkTheme: ThemeData(
         brightness: Brightness.dark,
-        primaryColor: Color.fromRGBO(41, 41, 41, 1),
+        primaryColor: Color.fromRGBO(40, 40, 40, 1),
         bottomNavigationBarTheme: BottomNavigationBarThemeData(
           backgroundColor: Color.fromRGBO(40, 40, 40, 1),
         ),
